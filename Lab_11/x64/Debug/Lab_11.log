@@ -1,0 +1,4 @@
+﻿  Source.c
+C:\Users\Артем\Desktop\Учеба\Программирование\Apps\Lab_11\Lab_11\Source.c(64,50): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\Артем\Desktop\Учеба\Программирование\Apps\Lab_11\Lab_11\Source.c(128,9): warning C4098: HomeWork: функция типа "void", возвращающая значение
+  Lab_11.vcxproj -> C:\Users\Артем\Desktop\Учеба\Программирование\Apps\Lab_11\x64\Debug\Lab_11.exe
